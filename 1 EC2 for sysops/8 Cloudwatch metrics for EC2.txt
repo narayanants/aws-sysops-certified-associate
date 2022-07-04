@@ -1,0 +1,23 @@
+Cloudwatch:
+----------
+
+    Standard
+    Detailed
+
+    CPU
+    Disk
+    Network
+    Status check
+
+
+
+    CPU
+    Network
+    Status check
+        - Instance Status
+        - System Status
+    Disk - Read/Write
+
+    RAM is not used for EC2 metrics
+
+    
