@@ -1,0 +1,10 @@
+EC2 instances purchasing plan:
+-----------------------------
+
+ On Demand
+ Reserved - convertible Reserved instances
+ Savings plan
+ Spot Instances
+ Dedicated hosts
+ Dedicated Instances
+ Capacity Reservations
