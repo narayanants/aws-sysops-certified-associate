@@ -1,0 +1,5 @@
+Launching EC2 Instances:
+------------------------
+
+
+General way of launching and SSHing into EC2 Instances
