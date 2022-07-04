@@ -1,0 +1,6 @@
+AMI no Reboot Option:
+----------------------
+
+ - Select the no reboot option and its will take a snapshot of the instance when its running
+
+ 
