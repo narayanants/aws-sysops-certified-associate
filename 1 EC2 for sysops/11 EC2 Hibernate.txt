@@ -1,0 +1,12 @@
+EC2 Hibernate:
+==============
+
+     - RAM state is preserved
+     - In-memory state is preserved
+     - RAM state is written into a file in root EBS Volume
+     - Root EBS Volume must be encrypted
+     
+
+ - An instance cannot be hibernated for more than 60 days
+
+ 
