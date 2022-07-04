@@ -1,0 +1,17 @@
+EC2 Placement Groups:
+---------------------
+
+ Cluster - Group in single AZ
+
+ Spread - spread across 7 ec2 instances in single AZ
+
+
+ Partitions - spread across different Partitions
+    - 100s of EC2 instances
+    - Access the metadata
+    - Big Data applications
+
+    
+
+
+
