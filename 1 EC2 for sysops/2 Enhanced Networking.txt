@@ -1,0 +1,11 @@
+Enhanched Networking:
+-------------------
+
+Elastic Network Adaptor
+Elastic Fabric Adaptor
+
+
+modinfo ena
+
+ethtool -i eth0
+
