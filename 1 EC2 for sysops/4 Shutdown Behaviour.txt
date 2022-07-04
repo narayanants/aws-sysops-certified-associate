@@ -1,0 +1,11 @@
+Shutdown Behaviour:
+-------------------
+
+ - stop
+ - terminate
+
+
+ - Termination Protection
+
+ sudo Shutdown
+ 
