@@ -1,0 +1,9 @@
+Gateway Load Balancer:
+======================
+
+    - All trafic through firewall
+    - Operates at Layer 3
+    - IP Packets
+    - GENEVE Protocol - 6081 Port
+
+    
