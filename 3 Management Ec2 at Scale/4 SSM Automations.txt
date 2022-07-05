@@ -1,0 +1,8 @@
+SSM Automations:
+================
+
+ - Automation Runbook
+ - Creating EC2 instance snapshots
+ - Automate using EventBridge
+ - Also using Runbooks
+ - 
