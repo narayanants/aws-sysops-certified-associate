@@ -7,7 +7,7 @@ SSM:
 
 
 Resource Groups
-Documents
+Documents and Run Command
 Automation
 Maintenanace Windows
 Parameter Store
