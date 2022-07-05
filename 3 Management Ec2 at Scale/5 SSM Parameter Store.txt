@@ -1,0 +1,7 @@
+SSM Parameter Store:
+-------------------
+
+ - Store secrets with KMS Encryption
+ - versioning of secrets
+ - Integration to CloudFormation
+ 
