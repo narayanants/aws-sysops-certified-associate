@@ -1,0 +1,12 @@
+ ELB:
+ ----
+
+    - Route Traffic to multiple Instances
+    - 
+
+
+    Health Checks:
+    --------------
+
+     - Availability of instances
+     - 
