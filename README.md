@@ -1,2 +1,2 @@
-# aws-sysops-certified-associate
+# aws-certified-sysops-associate
 AWS Certified Sysops Administrator
