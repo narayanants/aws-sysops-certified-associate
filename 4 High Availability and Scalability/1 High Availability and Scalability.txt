@@ -1,0 +1,8 @@
+4 High Availability and Scalability:
+------------------------------------
+
+
+ - Vertical Scalability
+ - Horizontal Scalability
+
+ 
