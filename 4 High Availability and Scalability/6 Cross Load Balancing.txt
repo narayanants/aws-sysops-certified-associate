@@ -1,0 +1,5 @@
+Cross Load Balacing:
+====================
+
+ - Equal Percentage traffic ditributed evenly across instances
+ - 
