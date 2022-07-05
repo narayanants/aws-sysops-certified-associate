@@ -1,0 +1,6 @@
+Patch Manager:
+--------------
+
+    - OS update, App update
+    - Patch on demand or schedule
+    - 
