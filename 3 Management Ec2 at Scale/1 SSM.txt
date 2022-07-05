@@ -1,0 +1,20 @@
+SSM:
+====
+
+- Fleet of EC2 and on-prem servers at scale
+- Works on Windows and Linux
+- 
+
+
+Resource Groups
+Documents
+Automation
+Maintenanace Windows
+Parameter Store
+Inventory
+Session Manager
+Run Command
+State Manager
+Patch Manager
+
+
