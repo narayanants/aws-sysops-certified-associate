@@ -1,0 +1,12 @@
+Inventory Manager:
+------------------
+
+ - Metadata of instances
+ - 
+
+
+ State Manager:
+ -============
+
+  -  Keeping your instances in a defined State
+  - 
